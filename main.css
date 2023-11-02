@@ -192,13 +192,13 @@ h2 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("../images/bg_1.jpg");
+  background-image: URL("./images/bg_1.jpg");
 }
 .main-slider-outer .main-slider-wrapper .item-2 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("../images/bg_2.jpg");
+  background-image: url("./images/bg_2.jpg");
 }
 .main-slider-outer .owl-theme .owl-controls {
   margin-top: -90px;
