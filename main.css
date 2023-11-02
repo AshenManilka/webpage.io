@@ -855,7 +855,7 @@ h2 {
   height: 350px;
   display: flex;
   background-color: #CACACA;
-  background-image: url("../images/bg_1.jpg");
+  background-image: url("./images/bg_1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
