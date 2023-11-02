@@ -110,6 +110,7 @@ h2 {
   -webkit-box-shadow: 2px 3px 23px -10px rgba(69, 67, 67, 0.61);
   -moz-box-shadow: 2px 3px 23px -10px rgba(69, 67, 67, 0.61);
   color: 979797;
+  z-index: 99999;
 }
 .navbar .nav-btn {
   border: none !important;
